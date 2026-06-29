@@ -1,11 +1,25 @@
-skill,posting_count,avg_salary_min,avg_salary_max
-sql,6,733333,1208333
-python,4,800000,1325000
-machine learning,2,850000,1400000
-power bi,2,650000,1000000
-excel,2,550000,875000
-aws,1,900000,1600000
-etl,1,900000,1600000
-nlp,1,900000,1500000
-dax,1,700000,1100000
-tableau,1,700000,1100000
+role_category,skills,skill_mentions,avg_salary_min,avg_salary_max,postings
+Data Scientist,Forecasting,25,930000,1280000,25
+Data Scientist,Machine Learning,25,930000,1280000,25
+Data Scientist,NLP,25,930000,1280000,25
+Data Scientist,Python,25,930000,1280000,25
+Data Scientist,SQL,25,930000,1280000,25
+ML Engineer,Machine Learning,25,880000,1180000,25
+ML Engineer,NLP,25,880000,1180000,25
+ML Engineer,Python,25,880000,1180000,25
+ML Engineer,SQL,25,880000,1180000,25
+AI Analyst,Machine Learning,25,780000,1030000,25
+AI Analyst,NLP,25,780000,1030000,25
+AI Analyst,Python,25,780000,1030000,25
+AI Analyst,SQL,25,780000,1030000,25
+BI Developer,Power BI,25,680000,1030000,25
+BI Developer,SQL,25,680000,1030000,25
+BI Developer,Tableau,25,680000,1030000,25
+Business Analyst,Excel,25,580000,880000,25
+Business Analyst,Power BI,25,580000,880000,25
+Business Analyst,SQL,25,580000,880000,25
+Business Analyst,Tableau,25,580000,880000,25
+Data Analyst,Excel,25,530000,780000,25
+Data Analyst,Power BI,25,530000,780000,25
+Data Analyst,Python,25,530000,780000,25
+Data Analyst,SQL,25,530000,780000,25

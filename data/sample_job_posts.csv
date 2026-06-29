@@ -1,7 +1,151 @@
-job_id,role,company,location,salary_min,salary_max,description
-J001,Data Analyst,Northstar Retail,Bengaluru,600000,900000,"SQL Python Power BI Excel dashboard reporting customer analytics"
-J002,BI Analyst,FinEdge Analytics,Mumbai,700000,1100000,"Power BI DAX SQL Tableau stakeholder reporting data modeling"
-J003,Junior Data Scientist,CloudWorks,Pune,800000,1300000,"Python machine learning scikit-learn SQL forecasting model evaluation"
-J004,Marketing Analyst,GrowthLoop,Delhi,500000,850000,"Excel SQL dashboard campaign analytics customer segmentation"
-J005,AI Analyst,Insight Labs,Bengaluru,900000,1500000,"Python NLP machine learning automation SQL business intelligence"
-J006,Data Engineer,MetricFlow,Hyderabad,900000,1600000,"SQL Python AWS ETL pipeline database data warehouse"
+job_id,title,company,location,salary_min,salary_max,description,posted_date
+J001,Junior Data Analyst,Flipkart,Noida,450000,700000,Python SQL Excel Power BI dashboard reporting statistics required for Flipkart analytics team in Noida.,2026-01-01
+J002,Associate ML Engineer,Meesho,Gurugram,840000,1140000,Python Machine Learning NLP SQL model deployment scikit-learn required for Meesho analytics team in Gurugram.,2026-01-02
+J003,Intern BI Developer,Nykaa,Bengaluru,680000,1030000,Power BI DAX SQL Tableau data modeling dashboard required for Nykaa analytics team in Bengaluru.,2026-01-03
+J004,Entry Level AI Analyst,Zomato,Hyderabad,820000,1070000,Python NLP Machine Learning SQL automation analytics required for Zomato analytics team in Hyderabad.,2026-01-04
+J005,Junior Business Analyst,Swiggy,Mumbai,660000,960000,Excel SQL Tableau Power BI stakeholder reporting required for Swiggy analytics team in Mumbai.,2026-01-05
+J006,Associate Data Scientist,Paytm,Delhi,850000,1200000,Python SQL Machine Learning NLP statistics forecasting required for Paytm analytics team in Delhi.,2026-01-06
+J007,Intern Data Analyst,InMobi,Noida,490000,740000,Python SQL Excel Power BI dashboard reporting statistics required for InMobi analytics team in Noida.,2026-01-07
+J008,Entry Level ML Engineer,Infosys,Gurugram,880000,1180000,Python Machine Learning NLP SQL model deployment scikit-learn required for Infosys analytics team in Gurugram.,2026-01-08
+J009,Junior BI Developer,Wipro,Bengaluru,720000,1070000,Power BI DAX SQL Tableau data modeling dashboard required for Wipro analytics team in Bengaluru.,2026-01-09
+J010,Associate AI Analyst,Flipkart,Hyderabad,860000,1110000,Python NLP Machine Learning SQL automation analytics required for Flipkart analytics team in Hyderabad.,2026-01-10
+J011,Intern Business Analyst,Meesho,Mumbai,500000,800000,Excel SQL Tableau Power BI stakeholder reporting required for Meesho analytics team in Mumbai.,2026-01-11
+J012,Entry Level Data Scientist,Nykaa,Delhi,890000,1240000,Python SQL Machine Learning NLP statistics forecasting required for Nykaa analytics team in Delhi.,2026-01-12
+J013,Junior Data Analyst,Zomato,Noida,530000,780000,Python SQL Excel Power BI dashboard reporting statistics required for Zomato analytics team in Noida.,2026-01-13
+J014,Associate ML Engineer,Swiggy,Gurugram,920000,1220000,Python Machine Learning NLP SQL model deployment scikit-learn required for Swiggy analytics team in Gurugram.,2026-01-14
+J015,Intern BI Developer,Paytm,Bengaluru,760000,1110000,Power BI DAX SQL Tableau data modeling dashboard required for Paytm analytics team in Bengaluru.,2026-01-15
+J016,Entry Level AI Analyst,InMobi,Hyderabad,700000,950000,Python NLP Machine Learning SQL automation analytics required for InMobi analytics team in Hyderabad.,2026-01-16
+J017,Junior Business Analyst,Infosys,Mumbai,540000,840000,Excel SQL Tableau Power BI stakeholder reporting required for Infosys analytics team in Mumbai.,2026-01-17
+J018,Associate Data Scientist,Wipro,Delhi,930000,1280000,Python SQL Machine Learning NLP statistics forecasting required for Wipro analytics team in Delhi.,2026-01-18
+J019,Intern Data Analyst,Flipkart,Noida,570000,820000,Python SQL Excel Power BI dashboard reporting statistics required for Flipkart analytics team in Noida.,2026-01-19
+J020,Entry Level ML Engineer,Meesho,Gurugram,960000,1260000,Python Machine Learning NLP SQL model deployment scikit-learn required for Meesho analytics team in Gurugram.,2026-01-20
+J021,Junior BI Developer,Nykaa,Bengaluru,600000,950000,Power BI DAX SQL Tableau data modeling dashboard required for Nykaa analytics team in Bengaluru.,2026-01-21
+J022,Associate AI Analyst,Zomato,Hyderabad,740000,990000,Python NLP Machine Learning SQL automation analytics required for Zomato analytics team in Hyderabad.,2026-01-22
+J023,Intern Business Analyst,Swiggy,Mumbai,580000,880000,Excel SQL Tableau Power BI stakeholder reporting required for Swiggy analytics team in Mumbai.,2026-01-23
+J024,Entry Level Data Scientist,Paytm,Delhi,970000,1320000,Python SQL Machine Learning NLP statistics forecasting required for Paytm analytics team in Delhi.,2026-01-24
+J025,Junior Data Analyst,InMobi,Noida,610000,860000,Python SQL Excel Power BI dashboard reporting statistics required for InMobi analytics team in Noida.,2026-01-25
+J026,Associate ML Engineer,Infosys,Gurugram,800000,1100000,Python Machine Learning NLP SQL model deployment scikit-learn required for Infosys analytics team in Gurugram.,2026-01-26
+J027,Intern BI Developer,Wipro,Bengaluru,640000,990000,Power BI DAX SQL Tableau data modeling dashboard required for Wipro analytics team in Bengaluru.,2026-01-27
+J028,Entry Level AI Analyst,Flipkart,Hyderabad,780000,1030000,Python NLP Machine Learning SQL automation analytics required for Flipkart analytics team in Hyderabad.,2026-01-28
+J029,Junior Business Analyst,Meesho,Mumbai,620000,920000,Excel SQL Tableau Power BI stakeholder reporting required for Meesho analytics team in Mumbai.,2026-01-29
+J030,Associate Data Scientist,Nykaa,Delhi,1010000,1360000,Python SQL Machine Learning NLP statistics forecasting required for Nykaa analytics team in Delhi.,2026-01-30
+J031,Intern Data Analyst,Zomato,Noida,450000,700000,Python SQL Excel Power BI dashboard reporting statistics required for Zomato analytics team in Noida.,2026-01-31
+J032,Entry Level ML Engineer,Swiggy,Gurugram,840000,1140000,Python Machine Learning NLP SQL model deployment scikit-learn required for Swiggy analytics team in Gurugram.,2026-02-01
+J033,Junior BI Developer,Paytm,Bengaluru,680000,1030000,Power BI DAX SQL Tableau data modeling dashboard required for Paytm analytics team in Bengaluru.,2026-02-02
+J034,Associate AI Analyst,InMobi,Hyderabad,820000,1070000,Python NLP Machine Learning SQL automation analytics required for InMobi analytics team in Hyderabad.,2026-02-03
+J035,Intern Business Analyst,Infosys,Mumbai,660000,960000,Excel SQL Tableau Power BI stakeholder reporting required for Infosys analytics team in Mumbai.,2026-02-04
+J036,Entry Level Data Scientist,Wipro,Delhi,850000,1200000,Python SQL Machine Learning NLP statistics forecasting required for Wipro analytics team in Delhi.,2026-02-05
+J037,Junior Data Analyst,Flipkart,Noida,490000,740000,Python SQL Excel Power BI dashboard reporting statistics required for Flipkart analytics team in Noida.,2026-02-06
+J038,Associate ML Engineer,Meesho,Gurugram,880000,1180000,Python Machine Learning NLP SQL model deployment scikit-learn required for Meesho analytics team in Gurugram.,2026-02-07
+J039,Intern BI Developer,Nykaa,Bengaluru,720000,1070000,Power BI DAX SQL Tableau data modeling dashboard required for Nykaa analytics team in Bengaluru.,2026-02-08
+J040,Entry Level AI Analyst,Zomato,Hyderabad,860000,1110000,Python NLP Machine Learning SQL automation analytics required for Zomato analytics team in Hyderabad.,2026-02-09
+J041,Junior Business Analyst,Swiggy,Mumbai,500000,800000,Excel SQL Tableau Power BI stakeholder reporting required for Swiggy analytics team in Mumbai.,2026-02-10
+J042,Associate Data Scientist,Paytm,Delhi,890000,1240000,Python SQL Machine Learning NLP statistics forecasting required for Paytm analytics team in Delhi.,2026-02-11
+J043,Intern Data Analyst,InMobi,Noida,530000,780000,Python SQL Excel Power BI dashboard reporting statistics required for InMobi analytics team in Noida.,2026-02-12
+J044,Entry Level ML Engineer,Infosys,Gurugram,920000,1220000,Python Machine Learning NLP SQL model deployment scikit-learn required for Infosys analytics team in Gurugram.,2026-02-13
+J045,Junior BI Developer,Wipro,Bengaluru,760000,1110000,Power BI DAX SQL Tableau data modeling dashboard required for Wipro analytics team in Bengaluru.,2026-02-14
+J046,Associate AI Analyst,Flipkart,Hyderabad,700000,950000,Python NLP Machine Learning SQL automation analytics required for Flipkart analytics team in Hyderabad.,2026-02-15
+J047,Intern Business Analyst,Meesho,Mumbai,540000,840000,Excel SQL Tableau Power BI stakeholder reporting required for Meesho analytics team in Mumbai.,2026-02-16
+J048,Entry Level Data Scientist,Nykaa,Delhi,930000,1280000,Python SQL Machine Learning NLP statistics forecasting required for Nykaa analytics team in Delhi.,2026-02-17
+J049,Junior Data Analyst,Zomato,Noida,570000,820000,Python SQL Excel Power BI dashboard reporting statistics required for Zomato analytics team in Noida.,2026-02-18
+J050,Associate ML Engineer,Swiggy,Gurugram,960000,1260000,Python Machine Learning NLP SQL model deployment scikit-learn required for Swiggy analytics team in Gurugram.,2026-02-19
+J051,Intern BI Developer,Paytm,Bengaluru,600000,950000,Power BI DAX SQL Tableau data modeling dashboard required for Paytm analytics team in Bengaluru.,2026-02-20
+J052,Entry Level AI Analyst,InMobi,Hyderabad,740000,990000,Python NLP Machine Learning SQL automation analytics required for InMobi analytics team in Hyderabad.,2026-02-21
+J053,Junior Business Analyst,Infosys,Mumbai,580000,880000,Excel SQL Tableau Power BI stakeholder reporting required for Infosys analytics team in Mumbai.,2026-02-22
+J054,Associate Data Scientist,Wipro,Delhi,970000,1320000,Python SQL Machine Learning NLP statistics forecasting required for Wipro analytics team in Delhi.,2026-02-23
+J055,Intern Data Analyst,Flipkart,Noida,610000,860000,Python SQL Excel Power BI dashboard reporting statistics required for Flipkart analytics team in Noida.,2026-02-24
+J056,Entry Level ML Engineer,Meesho,Gurugram,800000,1100000,Python Machine Learning NLP SQL model deployment scikit-learn required for Meesho analytics team in Gurugram.,2026-02-25
+J057,Junior BI Developer,Nykaa,Bengaluru,640000,990000,Power BI DAX SQL Tableau data modeling dashboard required for Nykaa analytics team in Bengaluru.,2026-02-26
+J058,Associate AI Analyst,Zomato,Hyderabad,780000,1030000,Python NLP Machine Learning SQL automation analytics required for Zomato analytics team in Hyderabad.,2026-02-27
+J059,Intern Business Analyst,Swiggy,Mumbai,620000,920000,Excel SQL Tableau Power BI stakeholder reporting required for Swiggy analytics team in Mumbai.,2026-02-28
+J060,Entry Level Data Scientist,Paytm,Delhi,1010000,1360000,Python SQL Machine Learning NLP statistics forecasting required for Paytm analytics team in Delhi.,2026-03-01
+J061,Junior Data Analyst,InMobi,Noida,450000,700000,Python SQL Excel Power BI dashboard reporting statistics required for InMobi analytics team in Noida.,2026-03-02
+J062,Associate ML Engineer,Infosys,Gurugram,840000,1140000,Python Machine Learning NLP SQL model deployment scikit-learn required for Infosys analytics team in Gurugram.,2026-03-03
+J063,Intern BI Developer,Wipro,Bengaluru,680000,1030000,Power BI DAX SQL Tableau data modeling dashboard required for Wipro analytics team in Bengaluru.,2026-03-04
+J064,Entry Level AI Analyst,Flipkart,Hyderabad,820000,1070000,Python NLP Machine Learning SQL automation analytics required for Flipkart analytics team in Hyderabad.,2026-03-05
+J065,Junior Business Analyst,Meesho,Mumbai,660000,960000,Excel SQL Tableau Power BI stakeholder reporting required for Meesho analytics team in Mumbai.,2026-03-06
+J066,Associate Data Scientist,Nykaa,Delhi,850000,1200000,Python SQL Machine Learning NLP statistics forecasting required for Nykaa analytics team in Delhi.,2026-03-07
+J067,Intern Data Analyst,Zomato,Noida,490000,740000,Python SQL Excel Power BI dashboard reporting statistics required for Zomato analytics team in Noida.,2026-03-08
+J068,Entry Level ML Engineer,Swiggy,Gurugram,880000,1180000,Python Machine Learning NLP SQL model deployment scikit-learn required for Swiggy analytics team in Gurugram.,2026-03-09
+J069,Junior BI Developer,Paytm,Bengaluru,720000,1070000,Power BI DAX SQL Tableau data modeling dashboard required for Paytm analytics team in Bengaluru.,2026-03-10
+J070,Associate AI Analyst,InMobi,Hyderabad,860000,1110000,Python NLP Machine Learning SQL automation analytics required for InMobi analytics team in Hyderabad.,2026-03-11
+J071,Intern Business Analyst,Infosys,Mumbai,500000,800000,Excel SQL Tableau Power BI stakeholder reporting required for Infosys analytics team in Mumbai.,2026-03-12
+J072,Entry Level Data Scientist,Wipro,Delhi,890000,1240000,Python SQL Machine Learning NLP statistics forecasting required for Wipro analytics team in Delhi.,2026-03-13
+J073,Junior Data Analyst,Flipkart,Noida,530000,780000,Python SQL Excel Power BI dashboard reporting statistics required for Flipkart analytics team in Noida.,2026-03-14
+J074,Associate ML Engineer,Meesho,Gurugram,920000,1220000,Python Machine Learning NLP SQL model deployment scikit-learn required for Meesho analytics team in Gurugram.,2026-03-15
+J075,Intern BI Developer,Nykaa,Bengaluru,760000,1110000,Power BI DAX SQL Tableau data modeling dashboard required for Nykaa analytics team in Bengaluru.,2026-03-16
+J076,Entry Level AI Analyst,Zomato,Hyderabad,700000,950000,Python NLP Machine Learning SQL automation analytics required for Zomato analytics team in Hyderabad.,2026-03-17
+J077,Junior Business Analyst,Swiggy,Mumbai,540000,840000,Excel SQL Tableau Power BI stakeholder reporting required for Swiggy analytics team in Mumbai.,2026-03-18
+J078,Associate Data Scientist,Paytm,Delhi,930000,1280000,Python SQL Machine Learning NLP statistics forecasting required for Paytm analytics team in Delhi.,2026-03-19
+J079,Intern Data Analyst,InMobi,Noida,570000,820000,Python SQL Excel Power BI dashboard reporting statistics required for InMobi analytics team in Noida.,2026-03-20
+J080,Entry Level ML Engineer,Infosys,Gurugram,960000,1260000,Python Machine Learning NLP SQL model deployment scikit-learn required for Infosys analytics team in Gurugram.,2026-03-21
+J081,Junior BI Developer,Wipro,Bengaluru,600000,950000,Power BI DAX SQL Tableau data modeling dashboard required for Wipro analytics team in Bengaluru.,2026-03-22
+J082,Associate AI Analyst,Flipkart,Hyderabad,740000,990000,Python NLP Machine Learning SQL automation analytics required for Flipkart analytics team in Hyderabad.,2026-03-23
+J083,Intern Business Analyst,Meesho,Mumbai,580000,880000,Excel SQL Tableau Power BI stakeholder reporting required for Meesho analytics team in Mumbai.,2026-03-24
+J084,Entry Level Data Scientist,Nykaa,Delhi,970000,1320000,Python SQL Machine Learning NLP statistics forecasting required for Nykaa analytics team in Delhi.,2026-03-25
+J085,Junior Data Analyst,Zomato,Noida,610000,860000,Python SQL Excel Power BI dashboard reporting statistics required for Zomato analytics team in Noida.,2026-03-26
+J086,Associate ML Engineer,Swiggy,Gurugram,800000,1100000,Python Machine Learning NLP SQL model deployment scikit-learn required for Swiggy analytics team in Gurugram.,2026-03-27
+J087,Intern BI Developer,Paytm,Bengaluru,640000,990000,Power BI DAX SQL Tableau data modeling dashboard required for Paytm analytics team in Bengaluru.,2026-03-28
+J088,Entry Level AI Analyst,InMobi,Hyderabad,780000,1030000,Python NLP Machine Learning SQL automation analytics required for InMobi analytics team in Hyderabad.,2026-03-29
+J089,Junior Business Analyst,Infosys,Mumbai,620000,920000,Excel SQL Tableau Power BI stakeholder reporting required for Infosys analytics team in Mumbai.,2026-03-30
+J090,Associate Data Scientist,Wipro,Delhi,1010000,1360000,Python SQL Machine Learning NLP statistics forecasting required for Wipro analytics team in Delhi.,2026-03-31
+J091,Intern Data Analyst,Flipkart,Noida,450000,700000,Python SQL Excel Power BI dashboard reporting statistics required for Flipkart analytics team in Noida.,2026-04-01
+J092,Entry Level ML Engineer,Meesho,Gurugram,840000,1140000,Python Machine Learning NLP SQL model deployment scikit-learn required for Meesho analytics team in Gurugram.,2026-04-02
+J093,Junior BI Developer,Nykaa,Bengaluru,680000,1030000,Power BI DAX SQL Tableau data modeling dashboard required for Nykaa analytics team in Bengaluru.,2026-04-03
+J094,Associate AI Analyst,Zomato,Hyderabad,820000,1070000,Python NLP Machine Learning SQL automation analytics required for Zomato analytics team in Hyderabad.,2026-04-04
+J095,Intern Business Analyst,Swiggy,Mumbai,660000,960000,Excel SQL Tableau Power BI stakeholder reporting required for Swiggy analytics team in Mumbai.,2026-04-05
+J096,Entry Level Data Scientist,Paytm,Delhi,850000,1200000,Python SQL Machine Learning NLP statistics forecasting required for Paytm analytics team in Delhi.,2026-04-06
+J097,Junior Data Analyst,InMobi,Noida,490000,740000,Python SQL Excel Power BI dashboard reporting statistics required for InMobi analytics team in Noida.,2026-04-07
+J098,Associate ML Engineer,Infosys,Gurugram,880000,1180000,Python Machine Learning NLP SQL model deployment scikit-learn required for Infosys analytics team in Gurugram.,2026-04-08
+J099,Intern BI Developer,Wipro,Bengaluru,720000,1070000,Power BI DAX SQL Tableau data modeling dashboard required for Wipro analytics team in Bengaluru.,2026-04-09
+J100,Entry Level AI Analyst,Flipkart,Hyderabad,860000,1110000,Python NLP Machine Learning SQL automation analytics required for Flipkart analytics team in Hyderabad.,2026-04-10
+J101,Junior Business Analyst,Meesho,Mumbai,500000,800000,Excel SQL Tableau Power BI stakeholder reporting required for Meesho analytics team in Mumbai.,2026-04-11
+J102,Associate Data Scientist,Nykaa,Delhi,890000,1240000,Python SQL Machine Learning NLP statistics forecasting required for Nykaa analytics team in Delhi.,2026-04-12
+J103,Intern Data Analyst,Zomato,Noida,530000,780000,Python SQL Excel Power BI dashboard reporting statistics required for Zomato analytics team in Noida.,2026-04-13
+J104,Entry Level ML Engineer,Swiggy,Gurugram,920000,1220000,Python Machine Learning NLP SQL model deployment scikit-learn required for Swiggy analytics team in Gurugram.,2026-04-14
+J105,Junior BI Developer,Paytm,Bengaluru,760000,1110000,Power BI DAX SQL Tableau data modeling dashboard required for Paytm analytics team in Bengaluru.,2026-04-15
+J106,Associate AI Analyst,InMobi,Hyderabad,700000,950000,Python NLP Machine Learning SQL automation analytics required for InMobi analytics team in Hyderabad.,2026-04-16
+J107,Intern Business Analyst,Infosys,Mumbai,540000,840000,Excel SQL Tableau Power BI stakeholder reporting required for Infosys analytics team in Mumbai.,2026-04-17
+J108,Entry Level Data Scientist,Wipro,Delhi,930000,1280000,Python SQL Machine Learning NLP statistics forecasting required for Wipro analytics team in Delhi.,2026-04-18
+J109,Junior Data Analyst,Flipkart,Noida,570000,820000,Python SQL Excel Power BI dashboard reporting statistics required for Flipkart analytics team in Noida.,2026-04-19
+J110,Associate ML Engineer,Meesho,Gurugram,960000,1260000,Python Machine Learning NLP SQL model deployment scikit-learn required for Meesho analytics team in Gurugram.,2026-04-20
+J111,Intern BI Developer,Nykaa,Bengaluru,600000,950000,Power BI DAX SQL Tableau data modeling dashboard required for Nykaa analytics team in Bengaluru.,2026-04-21
+J112,Entry Level AI Analyst,Zomato,Hyderabad,740000,990000,Python NLP Machine Learning SQL automation analytics required for Zomato analytics team in Hyderabad.,2026-04-22
+J113,Junior Business Analyst,Swiggy,Mumbai,580000,880000,Excel SQL Tableau Power BI stakeholder reporting required for Swiggy analytics team in Mumbai.,2026-04-23
+J114,Associate Data Scientist,Paytm,Delhi,970000,1320000,Python SQL Machine Learning NLP statistics forecasting required for Paytm analytics team in Delhi.,2026-04-24
+J115,Intern Data Analyst,InMobi,Noida,610000,860000,Python SQL Excel Power BI dashboard reporting statistics required for InMobi analytics team in Noida.,2026-04-25
+J116,Entry Level ML Engineer,Infosys,Gurugram,800000,1100000,Python Machine Learning NLP SQL model deployment scikit-learn required for Infosys analytics team in Gurugram.,2026-04-26
+J117,Junior BI Developer,Wipro,Bengaluru,640000,990000,Power BI DAX SQL Tableau data modeling dashboard required for Wipro analytics team in Bengaluru.,2026-04-27
+J118,Associate AI Analyst,Flipkart,Hyderabad,780000,1030000,Python NLP Machine Learning SQL automation analytics required for Flipkart analytics team in Hyderabad.,2026-04-28
+J119,Intern Business Analyst,Meesho,Mumbai,620000,920000,Excel SQL Tableau Power BI stakeholder reporting required for Meesho analytics team in Mumbai.,2026-04-29
+J120,Entry Level Data Scientist,Nykaa,Delhi,1010000,1360000,Python SQL Machine Learning NLP statistics forecasting required for Nykaa analytics team in Delhi.,2026-04-30
+J121,Junior Data Analyst,Zomato,Noida,450000,700000,Python SQL Excel Power BI dashboard reporting statistics required for Zomato analytics team in Noida.,2026-05-01
+J122,Associate ML Engineer,Swiggy,Gurugram,840000,1140000,Python Machine Learning NLP SQL model deployment scikit-learn required for Swiggy analytics team in Gurugram.,2026-05-02
+J123,Intern BI Developer,Paytm,Bengaluru,680000,1030000,Power BI DAX SQL Tableau data modeling dashboard required for Paytm analytics team in Bengaluru.,2026-05-03
+J124,Entry Level AI Analyst,InMobi,Hyderabad,820000,1070000,Python NLP Machine Learning SQL automation analytics required for InMobi analytics team in Hyderabad.,2026-05-04
+J125,Junior Business Analyst,Infosys,Mumbai,660000,960000,Excel SQL Tableau Power BI stakeholder reporting required for Infosys analytics team in Mumbai.,2026-05-05
+J126,Associate Data Scientist,Wipro,Delhi,850000,1200000,Python SQL Machine Learning NLP statistics forecasting required for Wipro analytics team in Delhi.,2026-05-06
+J127,Intern Data Analyst,Flipkart,Noida,490000,740000,Python SQL Excel Power BI dashboard reporting statistics required for Flipkart analytics team in Noida.,2026-05-07
+J128,Entry Level ML Engineer,Meesho,Gurugram,880000,1180000,Python Machine Learning NLP SQL model deployment scikit-learn required for Meesho analytics team in Gurugram.,2026-05-08
+J129,Junior BI Developer,Nykaa,Bengaluru,720000,1070000,Power BI DAX SQL Tableau data modeling dashboard required for Nykaa analytics team in Bengaluru.,2026-05-09
+J130,Associate AI Analyst,Zomato,Hyderabad,860000,1110000,Python NLP Machine Learning SQL automation analytics required for Zomato analytics team in Hyderabad.,2026-05-10
+J131,Intern Business Analyst,Swiggy,Mumbai,500000,800000,Excel SQL Tableau Power BI stakeholder reporting required for Swiggy analytics team in Mumbai.,2026-05-11
+J132,Entry Level Data Scientist,Paytm,Delhi,890000,1240000,Python SQL Machine Learning NLP statistics forecasting required for Paytm analytics team in Delhi.,2026-05-12
+J133,Junior Data Analyst,InMobi,Noida,530000,780000,Python SQL Excel Power BI dashboard reporting statistics required for InMobi analytics team in Noida.,2026-05-13
+J134,Associate ML Engineer,Infosys,Gurugram,920000,1220000,Python Machine Learning NLP SQL model deployment scikit-learn required for Infosys analytics team in Gurugram.,2026-05-14
+J135,Intern BI Developer,Wipro,Bengaluru,760000,1110000,Power BI DAX SQL Tableau data modeling dashboard required for Wipro analytics team in Bengaluru.,2026-05-15
+J136,Entry Level AI Analyst,Flipkart,Hyderabad,700000,950000,Python NLP Machine Learning SQL automation analytics required for Flipkart analytics team in Hyderabad.,2026-05-16
+J137,Junior Business Analyst,Meesho,Mumbai,540000,840000,Excel SQL Tableau Power BI stakeholder reporting required for Meesho analytics team in Mumbai.,2026-05-17
+J138,Associate Data Scientist,Nykaa,Delhi,930000,1280000,Python SQL Machine Learning NLP statistics forecasting required for Nykaa analytics team in Delhi.,2026-05-18
+J139,Intern Data Analyst,Zomato,Noida,570000,820000,Python SQL Excel Power BI dashboard reporting statistics required for Zomato analytics team in Noida.,2026-05-19
+J140,Entry Level ML Engineer,Swiggy,Gurugram,960000,1260000,Python Machine Learning NLP SQL model deployment scikit-learn required for Swiggy analytics team in Gurugram.,2026-05-20
+J141,Junior BI Developer,Paytm,Bengaluru,600000,950000,Power BI DAX SQL Tableau data modeling dashboard required for Paytm analytics team in Bengaluru.,2026-05-21
+J142,Associate AI Analyst,InMobi,Hyderabad,740000,990000,Python NLP Machine Learning SQL automation analytics required for InMobi analytics team in Hyderabad.,2026-05-22
+J143,Intern Business Analyst,Infosys,Mumbai,580000,880000,Excel SQL Tableau Power BI stakeholder reporting required for Infosys analytics team in Mumbai.,2026-05-23
+J144,Entry Level Data Scientist,Wipro,Delhi,970000,1320000,Python SQL Machine Learning NLP statistics forecasting required for Wipro analytics team in Delhi.,2026-05-24
+J145,Junior Data Analyst,Flipkart,Noida,610000,860000,Python SQL Excel Power BI dashboard reporting statistics required for Flipkart analytics team in Noida.,2026-05-25
+J146,Associate ML Engineer,Meesho,Gurugram,800000,1100000,Python Machine Learning NLP SQL model deployment scikit-learn required for Meesho analytics team in Gurugram.,2026-05-26
+J147,Intern BI Developer,Nykaa,Bengaluru,640000,990000,Power BI DAX SQL Tableau data modeling dashboard required for Nykaa analytics team in Bengaluru.,2026-05-27
+J148,Entry Level AI Analyst,Zomato,Hyderabad,780000,1030000,Python NLP Machine Learning SQL automation analytics required for Zomato analytics team in Hyderabad.,2026-05-28
+J149,Junior Business Analyst,Swiggy,Mumbai,620000,920000,Excel SQL Tableau Power BI stakeholder reporting required for Swiggy analytics team in Mumbai.,2026-05-29
+J150,Associate Data Scientist,Paytm,Delhi,1010000,1360000,Python SQL Machine Learning NLP statistics forecasting required for Paytm analytics team in Delhi.,2026-05-30
