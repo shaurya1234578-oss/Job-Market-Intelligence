@@ -1,0 +1,7 @@
+job_id,role,company,location,salary_min,salary_max,description
+J001,Data Analyst,Northstar Retail,Bengaluru,600000,900000,"SQL Python Power BI Excel dashboard reporting customer analytics"
+J002,BI Analyst,FinEdge Analytics,Mumbai,700000,1100000,"Power BI DAX SQL Tableau stakeholder reporting data modeling"
+J003,Junior Data Scientist,CloudWorks,Pune,800000,1300000,"Python machine learning scikit-learn SQL forecasting model evaluation"
+J004,Marketing Analyst,GrowthLoop,Delhi,500000,850000,"Excel SQL dashboard campaign analytics customer segmentation"
+J005,AI Analyst,Insight Labs,Bengaluru,900000,1500000,"Python NLP machine learning automation SQL business intelligence"
+J006,Data Engineer,MetricFlow,Hyderabad,900000,1600000,"SQL Python AWS ETL pipeline database data warehouse"
